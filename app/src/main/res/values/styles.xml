@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- action bar. -->
+        <item name="colorPrimary">@color/limegreen</item>
+        <!-- barra notificaciones. -->
+        <item name="colorPrimaryDark">@color/green</item>
+        <!-- color fondo de raddiobutton -->
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+</resources>
